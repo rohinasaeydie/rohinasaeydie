@@ -1,8 +1,8 @@
-# Hi, I'm Rohina ✨
+# Hi, I'm Rohina🌷
 
 I'm a 💻 Computer Science student at The George Washington University interested in software engineering, mobile app development, full-stack development, and computer graphics.
 
-## 🌟 About Me
+## ✨ About Me
 - Interested in building practical, user-friendly technology
 - Experience with mobile, backend, systems, and graphics projects
 - Fluent in English and Farsi

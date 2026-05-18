@@ -5,6 +5,7 @@ I'm a Computer Science student at The George Washington University with interest
 A lot of my growth has come through hands-on projects that have helped me strengthen my technical skills and problem-solving mindset.
 
 ## 💻 Projects
+- [FitMatch](https://github.com/rohinasaeydie/fitmatch-senior-design-project) – Social fashion app built with React Native, Expo, Flask, MySQL, AWS, and Elo-based ranking
 - [Universal Studios Guide](https://github.com/rohinasaeydie/project2-amusementparkapp) – Android amusement park app built with Kotlin and Jetpack Compose
 - [Android News App](https://github.com/rohinasaeydie/project1-newsapp) – Android news app with map-based local news exploration
 
